@@ -1,0 +1,6 @@
+@appstorm_sql_dotnet_test_HostAddress = http://localhost:5273
+
+GET {{appstorm_sql_dotnet_test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
